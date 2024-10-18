@@ -1,0 +1,18 @@
+Problema 1
+
+No es necesario
+si, en el caso que se desee buscar quienes pertenecen a una clase particular
+
+Problema 2
+si
+
+Problema 3
+si, ambas opciones son unicas y de tipo string
+no
+
+Problema 4
+si
+si
+
+bonus
+una clase abstracta puede tener propiedades, la interfaz solo contiene metodos
